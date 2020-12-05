@@ -1,5 +1,7 @@
+<div align="center">
+
 ### Hi there, I'm Jay So a.k.a Ssoju! 👋
-I'm into everything as loog as it's fun.
+* I'm into everything as loog as it's fun.
 
 
 ### Live a life, you will remember!
@@ -12,6 +14,7 @@ I'm into everything as loog as it's fun.
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Ssojux2)](https://github.com/anuraghazra/github-readme-stats)
 
+</div>
 
 <!--
 **Ssojux2/Ssojux2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
