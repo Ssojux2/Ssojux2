@@ -1,10 +1,9 @@
-<center>
 ### Hi there, I'm Jay So a.k.a Ssoju! 👋
 I'm into everything as loog as it's fun.
 
 
 ### Live a life, you will remember!
-</center>
+
 
 Research interests
 ---
