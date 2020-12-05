@@ -3,8 +3,7 @@
 * I'm into everything as loog as it's fun. 🤔
 * Live A life, you will remember. **RIP Avicii**
 * I also do love music and DJing.
-* Check my Linktree.
-![Linktree](https://linktr.ee/SsojuBro)
+* Check my Linktree. [Linktree](https://linktr.ee/SsojuBro)
 
 
 ### Research interests
