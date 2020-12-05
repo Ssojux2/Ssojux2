@@ -1,5 +1,3 @@
-<div align="center">
-
 ### Hi there, I'm Jay So a.k.a Ssoju! 👋
 * I'm into everything as loog as it's fun.
 
@@ -11,7 +9,8 @@
 * 🔭 I’m currently working on **Music Generation Projects**.
 
 
-
+<div align="center">
+  
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Ssojux2)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
