@@ -1,15 +1,17 @@
+<center>
 ### Hi there, I'm Jay So a.k.a Ssoju! 👋
 I'm into everything as loog as it's fun.
 
 
 ### Live a life, you will remember!
-
+</center>
 
 Research interests
 ---
 * 🔭 I’m currently working on **Music Generation Projects**.
+* 
 
----
+
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Ssojux2)](https://github.com/anuraghazra/github-readme-stats)
 
 
