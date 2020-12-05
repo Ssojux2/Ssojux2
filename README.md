@@ -1,15 +1,13 @@
-<div align="center">
-  
 ### Hi there, I'm Jay So a.k.a Ssoju! 👋
 
-I'm into everything as loog as it's fun. 🤔
+* I'm into everything as loog as it's fun. 🤔
+* Live a life, you will remember! RIP Avicii.
+* I also do love music and DJing.
 
-### **Live a life, you will remember!**
-
-</div>
 
 ### Research interests
 * 🔭 I’m currently working on **Music Generation Projects**.
+* 📫 Anyone who interests Music AI, Always welcome to contact me!
 
   
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Ssojux2)](https://github.com/anuraghazra/github-readme-stats)
