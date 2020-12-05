@@ -1,11 +1,14 @@
-### Hi there, I'm JS So 👋
+### Hi there, I'm Jay So a.k.a Ssoju! 👋
 I'm into everything as loog as it's fun.
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fssojux2%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=python.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
+<center>![](https://img.shields.io/github/followers/ssojux2?label=Please%20be%20my%20follower%21&style=plastic)</center>
 
 * 🔭 I’m currently working on **Music Generation Projects**.
 
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Ssojux2)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 <!--
 **Ssojux2/Ssojux2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
