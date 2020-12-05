@@ -5,10 +5,10 @@ I'm into everything as loog as it's fun.
 ### Live a life, you will remember!
 
 
-Research interests
----
+### Research interests
 * 🔭 I’m currently working on **Music Generation Projects**.
-* 
+* 🌱 I’m currently learning **MLOps and Max for Live**.
+
 
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Ssojux2)](https://github.com/anuraghazra/github-readme-stats)
