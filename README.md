@@ -3,7 +3,6 @@ I'm into everything as loog as it's fun.
 
 <center>
   <img src="https://img.shields.io/github/followers/ssojux2?label=Please%20be%20my%20follower%21&style=plastic">
-  ![](https://img.shields.io/github/followers/ssojux2?label=Please%20be%20my%20follower%21&style=plastic)
 </center>
 
 * 🔭 I’m currently working on **Music Generation Projects**.
