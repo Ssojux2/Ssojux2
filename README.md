@@ -1,12 +1,13 @@
 <div align="center">
   
-## Hi there, I'm Jay So a.k.a Ssoju! 👋
+### Hi there, I'm Jay So a.k.a Ssoju! 👋
 
-### I'm into everything as loog as it's fun.
+I'm into everything as loog as it's fun. 🤔
 
 ### **Live a life, you will remember!**
 
 </div>
+
 ### Research interests
 * 🔭 I’m currently working on **Music Generation Projects**.
 
