@@ -11,7 +11,7 @@
 * 📫 Anyone who interests Music AI, Always welcome to contact me!
 
   
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Ssojux2&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Ssojux2&theme=react)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
